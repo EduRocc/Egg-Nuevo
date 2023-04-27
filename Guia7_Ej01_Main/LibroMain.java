@@ -18,5 +18,6 @@ public class LibroMain {
         li.cargaLibro();
 //        li.toString();
         li.MostrarLibros();
+        
     }
 }
